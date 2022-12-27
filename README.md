@@ -1,6 +1,9 @@
 # XDOJ-Collections🐹
 Dedicated to collecting all XDOJs 
-目前已收录239/???
+
+目前已收录240/??? 2022-12-27
+
+所有源码均AC通过oj(不排除抽风oj更改测试样例导致无法AC的情况)
 
 # Brief-Introduction🐹
 XDOJ is a online judge platform from Xidian University. 
