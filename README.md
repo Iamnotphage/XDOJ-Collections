@@ -1,5 +1,6 @@
 # XDOJ-Collections🐹
 Dedicated to collecting all XDOJs 
+目前已收录239/???
 
 # Brief-Introduction🐹
 XDOJ is a online judge platform from Xidian University. 
