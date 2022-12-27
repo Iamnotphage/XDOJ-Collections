@@ -43,9 +43,9 @@ int main(){
 }
 ```
 
-XDOJ0259.c for example.😍
+XDOJ0259.cpp for example.😍
 
-```C
+```CPP
 //xdoj0259.cpp
 #include<iostream>
 #include<cstdlib>
