@@ -1,4 +1,7 @@
 # XDOJ-Collections🐹
+
+![](https://img.shields.io/github/repo-size/Iamnotphage/XDOJ-Collections) ![](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue) ![](https://img.shields.io/github/stars/Iamnotphage/XDOJ-Collections?style=social)
+
 Dedicated to collecting all XDOJs 
 
 目前已收录240/??? 2022-12-27
